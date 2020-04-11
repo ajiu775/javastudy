@@ -1,7 +1,6 @@
 package study.algorithm;
 
 
-
 /**
  * @program: java study
  * @description: reverseLinkList
@@ -9,7 +8,7 @@ package study.algorithm;
  * @create: 2019-09-11 18:42
  **/
 public class LinkTableReverse {
-    class Node{
+    class Node {
         private Object data;
         private Node nextNode;
 

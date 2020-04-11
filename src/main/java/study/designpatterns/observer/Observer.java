@@ -6,6 +6,6 @@ package study.designpatterns.observer;
  * @author: Kelly.Xing
  * @create: 2019-03-22 22:21
  **/
-public  interface Observer {
+public interface Observer {
     void update(PrintGenerator printGenerator);
 }

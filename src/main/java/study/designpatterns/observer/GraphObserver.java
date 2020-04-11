@@ -9,14 +9,14 @@ package study.designpatterns.observer;
 public class GraphObserver implements Observer {
     public void update(PrintGenerator printGenerator) {
         System.out.println("GraphObserver:");
-        int count =printGenerator.getNumber();
-        for (int i = 0; i <count; i++) {
+        int count = printGenerator.getNumber();
+        for (int i = 0; i < count; i++) {
             System.out.println("**");
         }
         System.out.println(" ");
-        try{
+        try {
             Thread.sleep(1000);
-        }catch (InterruptedException e){
+        } catch (InterruptedException e) {
             System.out.println("thread sleep exception");
         }
     }

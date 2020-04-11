@@ -1,6 +1,6 @@
 package study.offer;
 
-import java.util.Scanner;
+import java.util.*;
 
 /**
  * @program: javastudy
@@ -10,41 +10,42 @@ import java.util.Scanner;
  **/
 public class TwoArrayFind {
     public static void main(String[] args) {
-        Scanner scanner=new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
         System.out.println("请输入目标数:");
-        int target=Integer.valueOf(scanner.nextLine());
+        int target = Integer.valueOf(scanner.nextLine());
         System.out.println("请输入数组规格:");
-        String rule=scanner.nextLine();
+        String rule = scanner.nextLine();
         System.out.println("请输入数组:");
-        String [] sizes=rule.split("x");
-        int hangShu=Integer.valueOf(sizes[0]);
-        int lieShu=Integer.valueOf(sizes[1]);
-        int [][] nums=new int [hangShu][lieShu];
-        for(int i=0;i<hangShu;i++){
-            for (int j=0;j<lieShu;j++){
-                nums[i][j]=scanner.nextInt();
+        String[] sizes = rule.split("x");
+        int hangShu = Integer.valueOf(sizes[0]);
+        int lieShu = Integer.valueOf(sizes[1]);
+        int[][] nums = new int[hangShu][lieShu];
+        for (int i = 0; i < hangShu; i++) {
+            for (int j = 0; j < lieShu; j++) {
+                nums[i][j] = scanner.nextInt();
             }
         }
-        solution(target,nums);
+        solution(target, nums);
 
     }
-    public static void solution(int target,int [][] nums){
-        if(nums.length==0||nums[0].length==0){
+
+    public static void solution(int target, int[][] nums) {
+        if (nums.length == 0 || nums[0].length == 0) {
             System.out.println("条件输入不对");
-        }else{
-            int n=0;
-            int m=nums[0].length-1;
-            int temp=nums[n][m];
-            while(target!=temp){
-                if(temp>target){
-                    m=m-1;
-                    temp=nums[n][m];
-                }else{
-                    n=n+1;
-                    temp=nums[n][m];
+        } else {
+            int n = 0;
+            int m = nums[0].length - 1;
+            int temp = nums[n][m];
+            while (target != temp) {
+                if (temp > target) {
+                    m = m - 1;
+                    temp = nums[n][m];
+                } else {
+                    n = n + 1;
+                    temp = nums[n][m];
                 }
             }
-            System.out.println("目标整数所在位置为第"+n+"行第"+m+"列");
+            System.out.println("目标整数所在位置为第" + n + "行第" + m + "列");
         }
     }
 }

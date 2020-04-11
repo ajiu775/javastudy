@@ -8,10 +8,10 @@ package study.thread;
  **/
 public class ImplementRunnable {
     public static void main(String[] args) {
-        MyThread myThread =new MyThread();
-        Thread thread=new Thread(myThread);
+        MyThread myThread = new MyThread();
+        Thread thread = new Thread(myThread);
         thread.start();
-        while (true){
+        while (true) {
             System.out.println("我是主线程");
         }
     }

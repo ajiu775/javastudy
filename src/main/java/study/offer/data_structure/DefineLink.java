@@ -1,7 +1,7 @@
 package study.offer.data_structure;
 
 /**
- * @program: javastudy
+ * @program: java study
  * @description: 链表
  * @author: Kelly.Xing
  * @create: 2019-09-25 13:32
@@ -28,14 +28,15 @@ public class DefineLink {
 
         }
     }
-    public void insertTail(int val){
+
+    public void insertTail(int val) {
         Entry tmp;
         Entry cur = new Entry(val);
         tmp = head;
         /*
          * 遍历链表到最后一个结点
          */
-        while(tmp.next != null){
+        while (tmp.next != null) {
             tmp = tmp.next;
         }
         tmp.next = cur;

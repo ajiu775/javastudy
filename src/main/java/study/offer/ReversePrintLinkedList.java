@@ -17,7 +17,7 @@ public class ReversePrintLinkedList {
         String perLinkedList = scanner.nextLine();
         String[] links = perLinkedList.split("->");
         DefineLink defineLink = new DefineLink();
-        defineLink.head.data=Integer.valueOf(links[0]);
+        defineLink.head.data = Integer.valueOf(links[0]);
         for (int i = 1; i < links.length; i++) {
             defineLink.insertTail(Integer.valueOf(links[i]));
         }

@@ -10,9 +10,9 @@ import java.util.Scanner;
  **/
 public class ReplaceStr {
     public static void main(String[] args) {
-        Scanner scanner=new Scanner(System.in);
-        String before=scanner.nextLine();
-        String after=before.replace(" ","%20");
+        Scanner scanner = new Scanner(System.in);
+        String before = scanner.nextLine();
+        String after = before.replace(" ", "%20");
         System.out.println(after);
     }
 }
