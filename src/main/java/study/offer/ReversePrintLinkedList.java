@@ -6,7 +6,7 @@ import java.util.Scanner;
 import java.util.Stack;
 
 /**
- * @program: javastudy
+ * @program: java study
  * @description: 输入一个链表，按链表值从尾到头的顺序返回一个ArrayList。
  * @author: Kelly.Xing
  * @create: 2019-09-25 12:52

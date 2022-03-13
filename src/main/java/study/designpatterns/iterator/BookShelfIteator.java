@@ -1,7 +1,7 @@
 package study.designpatterns.iterator;
 
 /**
- * @program: javastudy
+ * @program: java study
  * @description: work for iterator
  * @author: Kelly.Xing
  * @create: 2019-08-20 09:30
