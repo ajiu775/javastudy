@@ -1,5 +1,10 @@
 package study.assemble;
 
+import java.util.HashMap;
+import java.util.Hashtable;
+import java.util.Map;
+import java.util.concurrent.ConcurrentHashMap;
+
 /**
  * @program: java study
  * @description: run code
@@ -9,6 +14,8 @@ package study.assemble;
 public class Main {
 
     public static void main(String[] args) {
-
+        Map<String,String> hashMap = new HashMap<String, String>();
+        Map<String,String> hashMap1 = new Hashtable<String, String>();
+        Map<String,String> hashMap2 = new ConcurrentHashMap<String, String>();
     }
 }
