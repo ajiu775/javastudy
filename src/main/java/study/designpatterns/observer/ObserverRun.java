@@ -1,7 +1,7 @@
 package study.designpatterns.observer;
 
 /**
- * @program: javastudy
+ * @program: java study
  * @description: 启动类
  * @author: Kelly.Xing
  * @create: 2019-03-31 16:08

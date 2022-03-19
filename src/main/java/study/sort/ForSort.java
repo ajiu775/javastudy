@@ -4,9 +4,9 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 /**
- * @program: javastudy
+ * @program: java study
  * @description: bubble sort implement
- * @author: Kelly.Xing
+ * @author: Allen
  * @create: 2020-03-21 20:45
  **/
 public class ForSort {

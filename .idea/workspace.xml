@@ -1,65 +1,153 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="java-study:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="f707509b-070d-4d3b-baeb-0815e9576387" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/shiqunxing.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/study/Linux.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/study/ReadWatchService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/Helper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/Temp.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/study/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/study/database/Start.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/study/generic/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/study/generic/Banana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/study/generic/Food.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/study/generic/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/study/generic/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/study/net/SocketClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/study/net/SocketServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/annotation/NonParse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/annotation/ParseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/annotation/XMLParseFather.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/annotation/XMLParseSon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/basicdatatype/BasicDataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/collection/StudyMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/concurrent/Ajiu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/concurrent/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/constructor/SubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/constructor/SupClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/database/DataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/designpatterns/listener/EmailEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/designpatterns/listener/MonitorListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/document/ExcelStudy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/document/XMLParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/exception/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/innerclass/Lam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/innerclass/OuterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/innerclass/OuterInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/io/Nio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/io/NioSocket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/lock/ReadAQS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/lock/StudyCAS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/log/StudyLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/net/Request.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/object/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/object/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/oo/Seasons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/oop/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/oop/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/oop/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/proxy/Animals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/proxy/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/proxy/Deal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/proxy/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/proxy/DynamicProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/proxy/StaticProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/reflect/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/reflect/Reflect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/servlet/Start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/servlet/StudyServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/socket/AjiuClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/socket/AjiuServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/socket/Execute.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/study/sort/HeapSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/study/sort/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/threadpool/ThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/sort/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/sort/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/sort/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/strings/StudyStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/thread/Call.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/thread/ThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/xmlparse/XMLParse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/xmlParser.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/test.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javastudy.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/study/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codewithmosh/Calculate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/study/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/study/algorithm/LinkTableReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/algorithm/LinkTableReverse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/study/assemble/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/assemble/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/study/data_structures/Lstack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/data_structures/Lstack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/study/designpatterns/iterator/Aggregate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/designpatterns/iterator/Aggregate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/study/designpatterns/iterator/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/designpatterns/iterator/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/study/designpatterns/iterator/BookShelfIteator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/designpatterns/iterator/BookShelfIteator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/study/designpatterns/iterator/Bookshelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/designpatterns/iterator/Bookshelf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/study/designpatterns/iterator/Iterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/designpatterns/iterator/Iterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/study/designpatterns/iterator/TestIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/designpatterns/iterator/TestIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/study/designpatterns/observer/GraphObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/designpatterns/observer/GraphObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/study/designpatterns/observer/NumberGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/designpatterns/observer/NumberGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/study/designpatterns/observer/NumberObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/designpatterns/observer/NumberObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/study/designpatterns/observer/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/designpatterns/observer/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/study/designpatterns/observer/ObserverRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/designpatterns/observer/ObserverRun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/study/designpatterns/observer/PrintGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/designpatterns/observer/PrintGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/study/designpatterns/singleton/RunClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/designpatterns/singleton/RunClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/study/designpatterns/singleton/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/designpatterns/singleton/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/study/interview/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/interview/Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/study/offer/ReplaceStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/offer/ReplaceStr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/study/offer/ReversePrintLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/offer/ReversePrintLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/study/offer/TwoArrayFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/offer/TwoArrayFind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/study/offer/data_structure/DefineLink.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/offer/data_structure/DefineLink.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/study/sort/ForSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/sort/ForSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/study/thread/BuildThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/thread/BuildThreadPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/study/thread/CreateThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/thread/CreateThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/study/thread/ImplementRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/thread/ImplementRunnable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/study/thread/StudySynchronized.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/thread/StudySynchronized.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/study/thread/ThreadEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/thread/ThreadEntity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/META-INF/java-study.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/codewithmosh/Calculate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/codewithmosh/Calculate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/study/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/study/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/study/algorithm/LinkTableReverse$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/study/algorithm/LinkTableReverse$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/study/algorithm/LinkTableReverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/study/algorithm/LinkTableReverse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/study/assemble/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/study/assemble/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/study/data_structures/Lstack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/study/data_structures/Lstack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/study/designpatterns/iterator/Aggregate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/study/designpatterns/iterator/Aggregate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/study/designpatterns/iterator/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/study/designpatterns/iterator/Book.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/study/designpatterns/iterator/BookShelfIteator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/study/designpatterns/iterator/BookShelfIteator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/study/designpatterns/iterator/Bookshelf.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/study/designpatterns/iterator/Bookshelf.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/study/designpatterns/iterator/Iterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/study/designpatterns/iterator/Iterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/study/designpatterns/iterator/TestIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/study/designpatterns/iterator/TestIterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/study/designpatterns/observer/GraphObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/study/designpatterns/observer/GraphObserver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/study/designpatterns/observer/NumberGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/study/designpatterns/observer/NumberGenerator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/study/designpatterns/observer/NumberObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/study/designpatterns/observer/NumberObserver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/study/designpatterns/observer/Observer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/study/designpatterns/observer/Observer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/study/designpatterns/observer/ObserverRun.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/study/designpatterns/observer/ObserverRun.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/study/designpatterns/observer/PrintGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/study/designpatterns/observer/PrintGenerator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/study/designpatterns/singleton/RunClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/study/designpatterns/singleton/RunClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/study/designpatterns/singleton/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/study/designpatterns/singleton/Singleton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/study/interview/Practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/study/interview/Practice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/study/offer/ReplaceStr.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/study/offer/ReplaceStr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/study/offer/ReversePrintLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/study/offer/ReversePrintLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/study/offer/TwoArrayFind.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/study/offer/TwoArrayFind.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/study/offer/data_structure/DefineLink$Entry.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/study/offer/data_structure/DefineLink$Entry.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/study/offer/data_structure/DefineLink.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/study/offer/data_structure/DefineLink.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/study/sort/ForSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/study/sort/ForSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/study/thread/BuildThreadPool.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/study/thread/BuildThreadPool.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/study/thread/CreateThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/study/thread/CreateThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/study/thread/ImplementRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/study/thread/ImplementRunnable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/study/thread/MyTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/study/thread/MyTask.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/study/thread/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/study/thread/MyThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/study/thread/StudySynchronized.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/study/thread/StudySynchronized.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/study/thread/ThreadEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/study/thread/ThreadEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/codewithmosh/Calculate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/study/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/study/algorithm/LinkTableReverse$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/study/algorithm/LinkTableReverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/study/assemble/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/study/data_structures/Lstack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/study/designpatterns/iterator/Aggregate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/study/designpatterns/iterator/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/study/designpatterns/iterator/BookShelfIteator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/study/designpatterns/iterator/Bookshelf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/study/designpatterns/iterator/Iterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/study/designpatterns/iterator/TestIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/study/designpatterns/observer/GraphObserver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/study/designpatterns/observer/NumberGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/study/designpatterns/observer/NumberObserver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/study/designpatterns/observer/Observer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/study/designpatterns/observer/ObserverRun.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/study/designpatterns/observer/PrintGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/study/designpatterns/singleton/RunClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/study/designpatterns/singleton/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/study/interview/Practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/study/offer/ReplaceStr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/study/offer/ReversePrintLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/study/offer/TwoArrayFind.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/study/offer/data_structure/DefineLink$Entry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/study/offer/data_structure/DefineLink.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/study/sort/ForSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/study/thread/BuildThreadPool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/study/thread/CreateThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/study/thread/ImplementRunnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/study/thread/MyTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/study/thread/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/study/thread/StudySynchronized.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/study/thread/ThreadEntity.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +157,11 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Jsp File" />
         <option value="Interface" />
+        <option value="Kotlin Class" />
+        <option value="Enum" />
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
@@ -77,12 +169,29 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>run()</find>
+      <find>serialized</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1oyUamK0f2f7nuth1QV2PNm2Gu5" />
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="JupyterTrust" id="0fb12ac7-c572-437c-bc7e-9be314c46715" />
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1kPXr3wjiEQrpB8JfIVdxq7jV2W" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -96,8 +205,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586510128088" />
-    <property name="last_opened_file_path" value="D:/idea/spring/pom.xml" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1605603225298" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -107,14 +216,58 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.Start">
-    <configuration name="Linux" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.Linux" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AjiuClient">
+    <configuration name="Ajiu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.concurrent.Ajiu" />
+      <module name="javastudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study.concurrent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AjiuClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.socket.AjiuClient" />
+      <module name="javastudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study.socket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Execute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.socket.Execute" />
+      <module name="javastudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study.socket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Temp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.Temp" />
       <module name="javastudy" />
       <extension name="coverage">
         <pattern>
@@ -126,12 +279,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SocketClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.net.SocketClient" />
+    <configuration name="XMLParseSon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.annotation.XMLParseSon" />
       <module name="javastudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="study.net.*" />
+          <option name="PATTERN" value="study.annotation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,102 +292,97 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SocketServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.net.SocketServer" />
-      <module name="javastudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="study.net.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="ajiu" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.161" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="java-study:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/java_study_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_javastudy" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="63213" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
       <method v="2">
         <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="java-study:war exploded" />
+        </option>
       </method>
     </configuration>
-    <configuration name="Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.database.Start" />
-      <module name="javastudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="study.database.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.Test" />
-      <module name="javastudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="study.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="javaer" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="javaer" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <list>
+      <item itemvalue="Application.Temp" />
+      <item itemvalue="Application.Ajiu" />
+      <item itemvalue="Application.XMLParseSon" />
+      <item itemvalue="Application.Execute" />
+      <item itemvalue="Application.AjiuClient" />
+      <item itemvalue="Tomcat Server.ajiu" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Start" />
-        <item itemvalue="Application.Linux" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.SocketClient" />
-        <item itemvalue="Application.SocketServer" />
+        <item itemvalue="Application.AjiuClient" />
+        <item itemvalue="Application.Execute" />
+        <item itemvalue="Application.XMLParseSon" />
+        <item itemvalue="Application.Temp" />
+        <item itemvalue="Application.Ajiu" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -269,41 +417,82 @@
       <workItem from="1585287969646" duration="348000" />
       <workItem from="1585300326384" duration="22000" />
       <workItem from="1585479567386" duration="11230000" />
-      <workItem from="1614258391409" duration="1441000" />
-      <workItem from="1615895987579" duration="3315000" />
-      <workItem from="1616421073507" duration="886000" />
-      <workItem from="1617382903186" duration="621000" />
-      <workItem from="1617524279587" duration="3952000" />
-      <workItem from="1617596692173" duration="4664000" />
-      <workItem from="1617719566378" duration="2356000" />
-      <workItem from="1617790636613" duration="4231000" />
-      <workItem from="1618752769191" duration="9230000" />
-      <workItem from="1618833833471" duration="1672000" />
-      <workItem from="1619357372375" duration="96000" />
-      <workItem from="1619361003192" duration="839000" />
-      <workItem from="1619705417692" duration="494000" />
-      <workItem from="1621152851174" duration="2086000" />
-      <workItem from="1621251511460" duration="16000" />
-      <workItem from="1622467186127" duration="878000" />
-      <workItem from="1628689326920" duration="183000" />
-      <workItem from="1631799839600" duration="235000" />
-      <workItem from="1631800090100" duration="832000" />
-      <workItem from="1633843976525" duration="3507000" />
-      <workItem from="1636034560572" duration="2067000" />
-      <workItem from="1637321102070" duration="1021000" />
-      <workItem from="1637322191110" duration="1363000" />
-      <workItem from="1640270151331" duration="632000" />
-      <workItem from="1641564269545" duration="597000" />
-      <workItem from="1641624643057" duration="616000" />
-      <workItem from="1641712287780" duration="2167000" />
-      <workItem from="1642922823079" duration="2022000" />
-      <workItem from="1645947919821" duration="32000" />
-      <workItem from="1645950159168" duration="1281000" />
-      <workItem from="1646058856940" duration="1296000" />
-      <workItem from="1646145297714" duration="28000" />
-      <workItem from="1646145560969" duration="1183000" />
-      <workItem from="1646319236194" duration="168000" />
-      <workItem from="1646319420099" duration="92000" />
+      <workItem from="1586606218293" duration="1254000" />
+      <workItem from="1586792651867" duration="1302000" />
+      <workItem from="1586924862150" duration="7000" />
+      <workItem from="1587105226696" duration="6286000" />
+      <workItem from="1587186232617" duration="281000" />
+      <workItem from="1587186526097" duration="6318000" />
+      <workItem from="1587356294125" duration="3733000" />
+      <workItem from="1587817992618" duration="1385000" />
+      <workItem from="1588045185519" duration="292000" />
+      <workItem from="1588045636050" duration="154000" />
+      <workItem from="1589031431203" duration="2239000" />
+      <workItem from="1589081425273" duration="178000" />
+      <workItem from="1589082240866" duration="1059000" />
+      <workItem from="1589178702952" duration="2033000" />
+      <workItem from="1597044520176" duration="942000" />
+      <workItem from="1597734283133" duration="3609000" />
+      <workItem from="1597836517431" duration="1022000" />
+      <workItem from="1597886955964" duration="3179000" />
+      <workItem from="1599285108739" duration="9717000" />
+      <workItem from="1600334112051" duration="31758000" />
+      <workItem from="1602658018365" duration="1338000" />
+      <workItem from="1603799165873" duration="1006000" />
+      <workItem from="1604283319755" duration="10923000" />
+      <workItem from="1605248547201" duration="9000" />
+      <workItem from="1605248668188" duration="27000" />
+      <workItem from="1605249590355" duration="2510000" />
+      <workItem from="1605341961226" duration="2629000" />
+      <workItem from="1605515552894" duration="1384000" />
+      <workItem from="1605603403526" duration="122000" />
+      <workItem from="1605603546500" duration="136000" />
+      <workItem from="1605688231589" duration="4114000" />
+      <workItem from="1606132171493" duration="197000" />
+      <workItem from="1606359181082" duration="1617000" />
+      <workItem from="1606808393522" duration="16000" />
+      <workItem from="1606808472801" duration="964000" />
+      <workItem from="1607327888512" duration="184000" />
+      <workItem from="1607429147338" duration="2003000" />
+      <workItem from="1608022763304" duration="4510000" />
+      <workItem from="1608687283145" duration="2818000" />
+      <workItem from="1609326706484" duration="1661000" />
+      <workItem from="1609750539663" duration="97000" />
+      <workItem from="1609750782297" duration="1302000" />
+      <workItem from="1611151835242" duration="9000" />
+      <workItem from="1615255092810" duration="2182000" />
+      <workItem from="1615965625144" duration="372000" />
+      <workItem from="1618044319665" duration="1657000" />
+      <workItem from="1618379804519" duration="3031000" />
+      <workItem from="1621245396083" duration="9000" />
+      <workItem from="1621246256715" duration="596000" />
+      <workItem from="1623039152567" duration="413000" />
+      <workItem from="1628131859664" duration="1109000" />
+      <workItem from="1628174792479" duration="56000" />
+      <workItem from="1628494624193" duration="3175000" />
+      <workItem from="1628753913156" duration="414000" />
+      <workItem from="1628820923986" duration="2135000" />
+      <workItem from="1629102962203" duration="555000" />
+      <workItem from="1629103607815" duration="74000" />
+      <workItem from="1629103688229" duration="23000" />
+      <workItem from="1629103727057" duration="492000" />
+      <workItem from="1629104244880" duration="504000" />
+      <workItem from="1629967002692" duration="431000" />
+      <workItem from="1633758571923" duration="900000" />
+      <workItem from="1634882650380" duration="603000" />
+      <workItem from="1635238188858" duration="2741000" />
+      <workItem from="1635330303259" duration="1215000" />
+      <workItem from="1635399316155" duration="4000" />
+      <workItem from="1635906560789" duration="2291000" />
+      <workItem from="1635993906830" duration="652000" />
+      <workItem from="1636455063608" duration="623000" />
+      <workItem from="1636538804091" duration="2469000" />
+      <workItem from="1637575975785" duration="16755000" />
+      <workItem from="1639046015374" duration="95000" />
+      <workItem from="1639470535157" duration="2645000" />
+      <workItem from="1639997499970" duration="18000" />
+      <workItem from="1640571801851" duration="4089000" />
+      <workItem from="1645092405608" duration="276000" />
     </task>
     <servers />
   </component>
@@ -317,52 +506,96 @@
     </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="805" y="297" key="FileChooserDialogImpl" timestamp="1641713724179">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state x="805" y="297" key="FileChooserDialogImpl/0.0.2048.1112/-1920.0.1920.1040@0.0.2048.1112" timestamp="1641713724179" />
-    <state width="2005" height="302" key="GridCell.Tab.0.bottom" timestamp="1646319405077">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.2048.1112/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1646060662900" />
-    <state width="2005" height="302" key="GridCell.Tab.0.bottom/0.0.2048.1112/-1920.0.1920.1040@0.0.2048.1112" timestamp="1646319405077" />
-    <state width="2005" height="302" key="GridCell.Tab.0.center" timestamp="1646319405077">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.2048.1112/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1646060662900" />
-    <state width="2005" height="302" key="GridCell.Tab.0.center/0.0.2048.1112/-1920.0.1920.1040@0.0.2048.1112" timestamp="1646319405077" />
-    <state width="2005" height="302" key="GridCell.Tab.0.left" timestamp="1646319405077">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.2048.1112/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1646060662899" />
-    <state width="2005" height="302" key="GridCell.Tab.0.left/0.0.2048.1112/-1920.0.1920.1040@0.0.2048.1112" timestamp="1646319405077" />
-    <state width="2005" height="302" key="GridCell.Tab.0.right" timestamp="1646319405077">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.2048.1112/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1646060662900" />
-    <state width="2005" height="302" key="GridCell.Tab.0.right/0.0.2048.1112/-1920.0.1920.1040@0.0.2048.1112" timestamp="1646319405077" />
-    <state x="-1369" y="180" key="new project wizard" timestamp="1646145638755">
-      <screen x="-1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="-1369" y="180" key="new project wizard/0.0.2048.1112/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1646145638755" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/study/thread/ThreadEntity.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="1" />
+          <url>file://$PROJECT_DIR$/src/main/java/Solution.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/study/Linux.java</url>
-          <line>48</line>
-          <option name="timeStamp" value="2" />
+          <url>file://$PROJECT_DIR$/src/main/java/Solution.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Solution.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Solution.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Solution.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Solution.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Solution.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Solution.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>nodeList.item(0).getChildNodes()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>maxLength</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
 </project>
